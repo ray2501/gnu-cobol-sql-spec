@@ -71,4 +71,5 @@ rm -rf %buildroot
 %{directory}/%{_lib}/libocsql.so.2.0.0
 
 %files devel
+%doc README AUTHORS ChangeLog COPYING COPYING.LESSER
 %{directory}/%{_lib}/libocsql.so
