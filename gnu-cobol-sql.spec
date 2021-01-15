@@ -10,7 +10,7 @@ Name:          gnu-cobol-sql
 Summary:       ESQL for ODBC for GnuCobol/OpenCOBOL
 Version:       2.0
 Release:       0
-License:       GPL-3.0
+License:       GPL-3.0-only and LGPL-3.0-only
 Group:         Productivity/Databases/Tools
 Source:        http://kiska.net/opencobol/esql/%{name}-%{version}.tar.gz
 URL:           http://kiska.net/opencobol/esql/
